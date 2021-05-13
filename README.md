@@ -1,6 +1,6 @@
 # Jeopardy! Topic Modeling
 
-The game show Jeopardy! has held a place in American households for decades. In homage to the late host Alex Trebek, this project applies language parsing and topic modeling strategies to over 200,000 questions Jeopardy! questions, sourced since 1984 when Trebek first became host.
+The game show Jeopardy! has held a place in American households for decades. In homage to the late host Alex Trebek, this project applies language parsing and topic modeling strategies to over 200,000 Jeopardy! questions sourced since 1984 when Trebek first became host.
 
 In this project, we analyze the content of Jeopardy! questions in terms of:
 1. Game Dynamics: We use LDA topic modeling to evaluate how thematic topics of the game have changed over the years.
